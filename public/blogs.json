@@ -1,0 +1,183 @@
+[
+    {
+      "id": "A1B2C3",
+      "cover": "https://i.ibb.co/jVkzNww/image.jpg",
+      "author": "It's Fab",
+      "author-img": "https://i.ibb.co/qMDPbNk/pic.jpg",
+      "title": "The Great Adventure",
+      "tags": ["adventure", "fiction", "space"],
+      "time": 5
+    },
+    {
+      "id": "D4E5F6",
+      "cover": "https://i.ibb.co/fvRsGnn/3.jpg",
+      "author": "Kaitlyn Kristy",
+      "author-img": "https://i.ibb.co/2S4VFLt/4.jpg",
+      "title": "Understanding the Universe",
+      "tags": ["science", "fiction", "adventure"],
+      "time": 3
+    },
+    {
+      "id": "G7H8I9",
+      "cover": "https://i.ibb.co/3yqRSg2/19.jpg",
+      "author": "Alice Johnson",
+      "author-img": "https://i.ibb.co/6RhNtzx/14.jpg",
+      "title": "Cooking Made Simple",
+      "tags": ["cooking", "recipes", "food"],
+      "time": 7
+    },
+    {
+      "id": "J1K2L3",
+      "cover": "https://i.ibb.co/Ct87r7N/18.jpg",
+      "author": "Bob Brown",
+      "author-img": "https://i.ibb.co/zmY6fxy/13.jpg",
+      "title": "History of Ancient Civilizations",
+      "tags": ["history", "education", "archaeology"],
+      "time": 1
+    },
+    {
+      "id": "M4N5O6",
+      "cover": "https://i.ibb.co/xJt75fp/20.jpg",
+      "author": "Catherine Green",
+      "author-img": "https://i.ibb.co/5F7ZTvk/11.jpg",
+      "title": "Mastering the Art of Writing",
+      "tags": ["writing", "education", "creativity"],
+      "time": 9
+    },
+    {
+      "id": "P7Q8R9",
+      "cover": "https://i.ibb.co/ZXVb01w/16.jpg",
+      "author": "David Lee",
+      "author-img": "https://i.ibb.co/R4fLb3W/10.jpg",
+      "title": "The World of Photography",
+      "tags": ["photography", "art", "visual"],
+      "time": 4
+    },
+    {
+      "id": "S1T2U3",
+      "cover": "https://i.ibb.co/pjW3tQ3/15.jpg",
+      "author": "Emily Davis",
+      "author-img": "https://i.ibb.co/hsnr2Cs/9.jpg",
+      "title": "Exploring the Mind",
+      "tags": ["psychology", "self-help", "mindfulness"],
+      "time": 2
+    },
+    {
+      "id": "V4W5X6",
+      "cover": "https://i.ibb.co/fS9GHxb/14.jpg",
+      "author": "Frank Wilson",
+      "author-img": "https://i.ibb.co/5F7ZTvk/11.jpg",
+      "title": "The Science of Success",
+      "tags": ["success", "business", "motivation"],
+      "time": 6
+    },
+    {
+      "id": "Y7Z8A1",
+      "cover": "https://i.ibb.co/NsGFTwf/13.jpg",
+      "author": "Grace Clark",
+      "author-img": "https://i.ibb.co/rpVmmYQ/7.jpg",
+      "title": "A Journey Through Time",
+      "tags": ["travel", "adventure", "history"],
+      "time": 0
+    },
+    {
+      "id": "B2C3D4",
+      "cover": "https://i.ibb.co/t8P5jbT/12.jpg",
+      "author": "Henry King",
+      "author-img": "https://i.ibb.co/jDD1JCc/6.jpg",
+      "title": "The Art of Mindfulness",
+      "tags": ["mindfulness", "self-help", "meditation"],
+      "time": 8
+    },
+    {
+      "id": "E5F6G7",
+      "cover": "https://i.ibb.co/09NxSDb/11.jpg",
+      "author": "Olivia Martin",
+      "author-img": "https://i.ibb.co/NtWrdxd/5.jpg",
+      "title": "The Future of Technology",
+      "tags": ["technology", "innovation", "future"],
+      "time": 3
+    },
+    {
+      "id": "H8I9J1",
+      "cover": "https://i.ibb.co/CsNx7Cn/9.jpg",
+      "author": "William Scott",
+      "author-img": "https://i.ibb.co/vmGn8gQ/15.jpg",
+      "title": "Mysteries of the Ocean",
+      "tags": ["ocean", "science", "mystery"],
+      "time": 7
+    },
+    {
+      "id": "K2L3M4",
+      "cover": "https://i.ibb.co/2Kg5SJY/8.jpg",
+      "author": "Sophia Lewis",
+      "author-img": "https://i.ibb.co/hfxY7SK/logo0.png",
+      "title": "Art and Culture",
+      "tags": ["art", "culture", "history"],
+      "time": 1
+    },
+    {
+      "id": "N5O6P7",
+      "cover": "https://i.ibb.co/X3GWH0S/7.jpg",
+      "author": "James Walker",
+      "author-img": "https://i.ibb.co/XYh1qb7/logo2.png",
+      "title": "The World of Sports",
+      "tags": ["sports", "health", "fitness"],
+      "time": 9
+    },
+    {
+      "id": "Q8R9S1",
+      "cover": "https://i.ibb.co/F7Rrfqg/10.jpg",
+      "author": "Mia Moore",
+      "author-img": "https://i.ibb.co/4tYT765/logo1.png",
+      "title": "Gardening for Beginners",
+      "tags": ["gardening", "nature", "hobby"],
+      "time": 4
+    },
+    {
+      "id": "T2U3V4",
+      "cover": "https://i.ibb.co/71yG2qD/5.jpg",
+      "author": "Liam Hall",
+      "author-img": "https://i.ibb.co/z5vCN29/16.jpg",
+      "title": "The Power of Music",
+      "tags": ["music", "art", "culture"],
+      "time": 2
+    },
+    {
+      "id": "W5X6Y7",
+      "cover": "https://i.ibb.co/Dr1Zn4v/4.jpg",
+      "author": "Ava Adams",
+      "author-img": "https://i.ibb.co/vmGn8gQ/15.jpg",
+      "title": "Exploring Space",
+      "tags": ["space", "science", "exploration"],
+      "time": 6
+    },
+    {
+      "id": "Z8A1B2",
+      "cover": "https://i.ibb.co/BfVyQ0R/17.jpg",
+      "author": "Lucas Nelson",
+      "author-img": "https://i.ibb.co/6RhNtzx/14.jpg",
+      "title": "The Digital Age",
+      "tags": ["technology", "innovation", "digital"],
+      "time": 0
+    },
+    {
+      "id": "C3D4E5",
+      "cover": "https://i.ibb.co/BfVyQ0R/17.jpg",
+      "author": "Ella Carter",
+      "author-img": "https://i.ibb.co/zmY6fxy/13.jpg",
+      "title": "The Art of Painting",
+      "tags": ["art", "painting", "creativity"],
+      "time": 8
+    },
+    {
+      "id": "F6G7H8",
+      "cover": "https://i.ibb.co/BfVyQ0R/17.jpg",
+      "author": "Mason Roberts",
+      "author-img": "https://i.ibb.co/5F7ZTvk/11.jpg",
+      "title": "Innovations in Medicine",
+      "tags": ["medicine", "health", "technology"],
+      "time": 5
+    }
+  ]
+  
